@@ -1,0 +1,19 @@
+{
+  "name": "wyjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "TommY",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^5.4.0",
+    "eslint-loader": "^2.1.0",
+    "jest": "^23.5.0"
+  }
+}
